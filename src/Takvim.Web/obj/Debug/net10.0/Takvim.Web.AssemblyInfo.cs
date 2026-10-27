@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Takvim.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eefa804e2a739e3f825d80a501aac0b86f89d57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d99a60b6fd9e726a1038ae159c5eb73a8683bca2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Takvim.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Takvim.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

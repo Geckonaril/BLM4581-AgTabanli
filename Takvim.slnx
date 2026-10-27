@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Takvim.Api/Takvim.Api.csproj" />
+    <Project Path="src/Takvim.Web/Takvim.Web.csproj" />
+  </Folder>
+</Solution>
